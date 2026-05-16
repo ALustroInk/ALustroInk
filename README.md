@@ -2,31 +2,14 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Andesa Lustro, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC Sapopemba, com o curso técnico em Desenvolvimento de Sistemas. Concluí também o ProProfissão em Desenvolvimento Web no Instituto PROA. Sou apaixonada por tecnologia e estou sempre buscando aprender mais e mais. Atualmente estou cursando faculdade de Análise e Desenvolvimento de Sistemas na SpTech.
+---
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/andressa-lustro-lima" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="mailto:andressalustro00@gmail.com">
-        <img 
-            alt="Email" 
-            title="E-mail" 
-            src="https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-    <a href="https://www.instagram.com/andressa_lustro?utm_source=ig_web_button_share_sheet&igsh=MTN0NnY2cGdhOHo2MA==" target="_blank">
-        <img 
-        alt="Instagram" 
-        title="Instagram" 
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-</a>
-</p>
+## ☾༻☽ Sobre mim:
+Me chamo Andressa, tenho 20 anos e resido em São Paulo. Estou cursando Análise e Desenvolvimento de Sistemas na SPTech. Realizei cursos como Programação Web no Instituto PROA, técnico junto ao Ensino Médio na Etec de Sapopemba em Desenvolvimento de Sistemas (DS), e Design Gráfico no Senai. Meus próximos passos são dominar Javascript e Java, e posteriormente me aprofundar em C#. Viso atuar na área de FrontEnd ou FullStack.
+
+
+## ˏˋ꒰✉︎꒱ˎˊ Redes Sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-lustro-lima/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andressa.lima@sptech.school) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/andressa_lustro/)
 
 ---
 
@@ -80,8 +63,10 @@ Me chamo Andesa Lustro, tenho 20 anos e sou natural de São Paulo. Concluí o en
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+
 <br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
  <div>
