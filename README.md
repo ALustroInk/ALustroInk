@@ -1,4 +1,4 @@
-# 👩🏼‍💻 Andressa Lustro
+# Andressa Lustro ⭒˗ˏˋ𓆩🖳𓆪ˎˊ˗⭒ 
 
 **`Desenvolvedora FullStack`**
 
@@ -13,7 +13,7 @@ Me chamo Andressa, tenho 20 anos e resido em São Paulo. Estou cursando Análise
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ☕︎٠࣪₊˚ Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -68,7 +68,7 @@ Me chamo Andressa, tenho 20 anos e resido em São Paulo. Estou cursando Análise
 
 ---
 
-### 📊 Estatísticas
+### ‧♪˚ılııl Estatísticas
  <div>
  <a href="https://github.com/Transylvanian0">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Transylvanian0&show_icons=true&theme=dracula"/>
