@@ -1,15 +1,17 @@
-# Andressa Lustro ⭒˗ˏˋ𓆩🖳𓆪ˎˊ˗⭒ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=148&color=aa0e00%"/>
 
-**`Desenvolvedora FullStack`**
-
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=aa0e00&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+Nome+é+Andressa+Lustro;Sou+Desenvolvedora+Full-Stack.;Sejam+Bem-Vindos!!!!;⭒˗ˏˋ𓆩🖳𓆪ˎˊ˗⭒ )](https://git.io/typing-svg) 
 
 ## ☾༻☽ Sobre mim:
-Me chamo Andressa, tenho 20 anos e resido em São Paulo. Estou cursando Análise e Desenvolvimento de Sistemas na SPTech. Realizei cursos como Programação Web no Instituto PROA, técnico junto ao Ensino Médio na Etec de Sapopemba em Desenvolvimento de Sistemas (DS), e Design Gráfico no Senai. Meus próximos passos são dominar Javascript e Java, e posteriormente me aprofundar em C#. Viso atuar na área de FrontEnd ou FullStack.
+**`Desenvolvedora FullStack`**   **`Cloud AWS`**  
+Me chamo **Andressa**, tenho 20 anos e sou de São Paulo. Atualmente, curso **Análise e Desenvolvimento de Sistemas na SPTech** e possuo formação técnica em **Desenvolvimento de Sistemas pela Etec de Sapopemba**, além de cursos em **Programação Web pelo Instituto PROA** e **Design Gráfico pelo SENAI**.
 
+Sou **desenvolvedora Front-End** com interesse em **desenvolvimento Full Stack**, e venho expandindo meus conhecimentos em **Cloud Computing, especialmente AWS**. Busco aprimorar minhas habilidades em **JavaScript e Java**, com planos de explorar **C#** futuramente.
+
+Sou apaixonada por tecnologia, criatividade e aprendizado contínuo, sempre buscando transformar conhecimentos e ideias em soluções robustas e escaláveis. 
 
 ## ˏˋ꒰✉︎꒱ˎˊ Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-lustro-lima/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andressa.lima@sptech.school) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/andressa_lustro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D14836?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-lustro-lima/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andressa.lima@sptech.school) [![Instagram](https://img.shields.io/badge/Instagram-D14836.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/andressa_lustro/)
 
 ---
 
@@ -82,16 +84,24 @@ Me chamo Andressa, tenho 20 anos e resido em São Paulo. Estou cursando Análise
     src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg 
 />
 
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg 
+/>
+
+<img
+    align="left"
+    alt="AWS"
+    title="Amazon Web Services"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+/>
 
 <br/>
 
----
-
-### ‧♪˚ılııl Estatísticas
- <div>
- <a href="https://github.com/Transylvanian0">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Transylvanian0&show_icons=true&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Transylvanian0&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=aa0e00%&section=footer"/>
